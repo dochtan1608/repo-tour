@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MainTour")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+487793f35b466352be53cf2693d5f481937b4d70")]
 [assembly: System.Reflection.AssemblyProductAttribute("MainTour")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MainTour")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
